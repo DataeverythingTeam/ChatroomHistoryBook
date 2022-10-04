@@ -1,5 +1,5 @@
 # 聊天室历史书
-**版本9.3，于2022年9月12日更新。教师节快乐，中秋快乐！**
+**版本9.4，于2022年10月4日更新。国庆节快乐！**
 
 
 ## 发布地址
@@ -32,7 +32,7 @@
 
 
 ## 更新内容
- - 更新了“Mr\_Zhang与HC大轰炸”内容
+ - 更新了小雪事件、NCX客户端；修改了部分用语。
 
 
 ## 致读者（也致各位编写者）
@@ -261,6 +261,122 @@ n3CJhb Chumo
 &emsp;到了智械时代晚期，机器人数量达到巅峰，同时在线的机器人经常会有5、6个，这些机器人同时打招呼，特别是在有用户因网络或其他问题进进出出时，经常造成被动刷屏大惨案。机器人作者也时长因谁的机器人保留打招呼功能、谁的机器人撤除而争执。值得一提的是，在线人数和机器人数量持平（甚至更少）的情况时有发生。
 
 
+### 小雪事件
+&emsp;小雪事件发生在2022年3月下旬初左右，持续了数日，目前记录已经不多。小雪和其男友来到HC（的yc频道）后，进行数种有破坏性质的行为，如刷歌词，宣扬极端思想（骂美国人、宣扬中国人优越）等。当时的用户没有权限，也没有使用LaTeX武器，而是用言语共同对抗小雪和其男友。由于已经无法确定小雪和其男友分别做了哪些行为，在本节中用破坏者统称。
+
+&emsp;以下是一段3月20日的破坏者刷歌词的记录，nickname123是破坏者。记录中用户对破坏者感到愤怒。
+
+```
+gift 
+好吧，我真的无法心平气和的看待这残渣
+
+nickname123 
+抱紧我，抱紧我，直到有一种幸福的感觉。
+
+villain 
+欸
+
+nickname123 
+我真的需要你来理解我，像个孩子一样。
+
+villain 
+@gift 就像你在看近代史一样平静下来？
+
+nickname123 
+你有什么资格说别人是“残渣”？
+
+mUHx8L  notBot 
+你有什么资格说别人是“残渣”？
+
+Myh1TA  4n0n4me 
+高雅
+
+gift 
+好吧，听你的，我尽量心平气和@villain
+
+Myh1TA  4n0n4me 
+Y/N
+
+Myh1TA  4n0n4me 
+谜语多么迷人
+
+Myh1TA  4n0n4me 
+给我这样的普通人
+
+Myh1TA  4n0n4me 
+深邃的力量
+
+nickname123 
+我打算在黄昏的时候出发，搭一辆车去远方
+
+Myh1TA  4n0n4me 
+Y/N
+
+gift 
+但我或许真的忍不了
+
+villain 
+那可能是因为什么原因
+
+Myh1TA  4n0n4me 
+我在看译制片吗
+```
+
+&emsp;以下是3月20日破坏者宣扬极端思想的记录。
+
+```
+nickname123 
+哈哈
+
+nickname123 
+真好玩
+
+nickname123 
+死美国佬
+
+nickname123 
+又跑出来了
+
+nickname123 
+你个死美国佬
+
+Myh1TA  4n0n4me 
+@Chumo_WinServer2012R2 你居然在啊
+
+nickname123 
+还装中国人呢
+```
+
+&emsp;破坏者和用户进行激烈的对抗。
+
+```
+nickname123 
+哈哈哈
+
+nickname123 
+你们这些死美国佬
+
+gift 
+民用版会在城市和区县定位
+
+nickname123 
+行了，我已经知道了。你们是中国人
+
+n3CJhb  Chumo_WinServer2012R2 
+哈哈哈一词不属于中国文言文
+
+Myh1TA  4n0n4me 
+他妈的
+
+n3CJhb  Chumo_WinServer2012R2 
+你不是中国人
+
+nickname123 
+因为，只有中国人才会那么聪明
+```
+
+&emsp;后来，破坏者进行道歉。道歉内容似乎包括宣称自己生活不如意才在HC发泄，而如今找到了工作，要和HC的用户道别；而宣扬极端思想只是为了引起HC用户的注意。这段记录现已遗失。
+
 ### detele事件
 &emsp;detele事件发生在2022年3月下旬，这是HC历史上一件较早的有[完善记录](https://www.zzchat.cf/wiki/notice.html)（由初墨和13在初墨的hc wiki记载）的事件，疑似用户detele的人多次大量刷屏辱骂ee、13等用户，同时事件所涉及的问题也比较重大。
 
@@ -436,8 +552,6 @@ n3CJhb Chumo
 &emsp;XC出现崩溃现象后，有一次，XC管理员ee注意到黑茶在?bot聊天室利用机器人疯狂刷屏。在提醒无果后，为了取证，ee关闭了频率限制。然而关闭频率限制一段时间后，XC立刻崩溃。而当时站长MelonFish在上学，当天放学后才重启了XC。值得一提的是，黑茶刷屏期间DPG也在现场，但并未对黑茶的行为作出反应，也有参与此事件之前的大大小小次刷屏的前科，最初被认定为同谋。事实证明不是。
 
 &emsp;经过当事人ee~~人传人~~的传播，各聊天室间认识黑茶的人一致同意是他恶意刷屏的行为导致了XC的多次崩溃，并想想将他捉拿归案。可在这次刷爆XC后，黑茶在互联网上消失了，几乎没有在各聊天室出现过，我们没有机会与他进行任何关于此事件的对话。此间，来到HC聊天室的新人TUSK也曾一度被怀疑是黑茶。事实再次证明不是。
-
-&emsp;4n0n4me为此创作了一些诗句。
 
 
 ### 卢本伟事件
@@ -742,7 +856,7 @@ but it works
 
 
 ### XC大迭代
-&emsp;USBot事件结束后，XC发生了翻天覆地的变化。曾经，“XC迭代”这一章节作为独立事件出现在历史书里，后被整合至[XC聊天室](#XC聊天室)。与此相比截然不同的是XC大迭代，曾经的XC老管理ee、Untitled、4n0n4me、Hack4r、Dawnboy、Maggie等人不复存在，留下了的只有主要维护人员Mr\_Zhang、老管理MuRongPIG、支持XC的新管理OIer酱、收了鱼贿赂的QiuLingYan。
+&emsp;USBot事件结束后，XC发生了翻天覆地的变化。曾经，“XC迭代”这一章节作为独立事件出现在历史书里，后被整合至[XC聊天室](#XC聊天室)。与此相比截然不同的是XC大迭代，曾经的XC老管理ee、Untitled、4n0n4me、Hack4r、Dawnboy、Maggie等人被撤职，留下了的只有主要维护人员Mr\_Zhang、老管理MuRongPIG、支持XC的新管理OIer酱、收了鱼贿赂的QiuLingYan。
 
 &emsp;在这起事件里，对XC感到失望的老成员选择离开XC，回归HC。星聊、TC、ZC等地也被多次作为“战争避难所”候补，专门用于躲避从XC来的Mr\_Zhang、MelonFish等人装作机器人的眼线。
 
@@ -790,7 +904,9 @@ but it works
 
 
 ### lol事件
-&emsp;事情要追溯到2022年8月21日。这天上午，yc协管MuRongPIG在HC频道pro要authtrip（受认证的识别码，用于跳过锁房限制及验证码），这时，HC外国管理lol（此处以及**本章节**的下文都不是指的Laugh out loud缩写）不但没给MuRongPIG添加authtrip，反而不停kick（踢）出MuRongPIG“调戏”他，发表种族歧视言论。
+&emsp;HC的管理员lol（此处以及**本章节**的下文都不是指的Laugh out loud缩写）一向被认为对中国人不友好，曾经发表反华言论与各种对中国用户不利的言论。本节所述的是2022年8月下旬的lol事件。
+
+&emsp;事情要追溯到8月21日。这天上午，yc协管MuRongPIG在HC频道pro要authtrip（受认证的识别码，用于跳过锁房限制及验证码），这时，lol不但没给MuRongPIG添加authtrip，反而不停kick（踢）出MuRongPIG“调戏”他，发表种族歧视言论。
 
 ```
 a/Jz/a L
@@ -815,7 +931,7 @@ if u ask again i ban u
 
 &emsp;然而，该issue的语气十分尖锐，引发了后续的矛盾。
 
-&emsp;这天下午，lol对Maggie发表到GitHub用于举报代码问题的issue栏要求撤除Mod的内容很生气，再加上Light、emankicN（ccw）、jill等人在yc用中文讨论关于MC的事，恰好lol等管理也在yc，Light发的关于白虫子（实际上是MC的蠹虫）的言论，被lol等管理误认为是对于他的“白”的蔑称。虽然是他的理解错误，但过失和故意在这种事情上的差别还是很大的。
+&emsp;这天下午，lol对Maggie发表到GitHub用于举报代码问题的issue栏要求撤除Mod的内容很生气，再加上Light、emankicN（ccw）、jill等人在yc用中文讨论关于MC的事，恰好lol等管理也在yc，Light发的关于白虫子（实际上是MC的蠹虫）的言论，被lol等管理误认为是对于他的肤色的蔑称。虽然是他的理解错误，但过失和故意在这种事情上的差别还是很大的。
 
 &emsp;lol认为```“中国是个腐败的地方”```，骂Light是```“亚洲狗”```、骂zzChumo是```“智障”```（~~虽然本人就叫智障初墨~~）等、外加各种种族歧视发言，实际已经冒犯了亚洲所有国家。
 
@@ -887,7 +1003,7 @@ im sick and done with all of you morons
 
 &emsp;而后，Mr\_Zhang进入pro“试探”管理员，想得到authtrip报酬，但惨遭反华分子lol封禁。详见[lol事件](#lol事件)。
 
-&emsp;次日，Mr\_Zhang通过TBotTT机器人给管理员R留言，想试探R但并未得到回应。不久，小张绷不住了，在GitHub上提了个issue才得到重视，并于北京时间2022年晚上9时57分修复此BUG。Mr\_Zhang又询问了一些关于“HC站长Marzavec”的事情。然而，jill等许多用户声称，R和Marzavec本就是同一个人。
+&emsp;次日，Mr\_Zhang通过TBotTT机器人给管理员R留言，想试探R但并未得到回应。不久，Mr\_Zhang绷不住了，在GitHub上提了个issue才得到重视，并于北京时间2022年晚上9时57分修复此BUG。Mr\_Zhang又询问了一些关于“HC站长Marzavec”的事情。然而，jill等许多用户声称，R和Marzavec本就是同一个人。
 
 &emsp;其他管理员的回复如下：
 
@@ -932,25 +1048,17 @@ Which is usually zero USD
 >
 > 我们相信XChat和your-channel两方的纠纷会顺利解决的，每个人都有机会站在聊天室大舞台的中央，为聊天室事业做出贡献！——Mr\_Zhang
 
-&emsp;然而，Mr\_Zhang却为一己私利，用脚本攻击了pro和yc。并且，Mr\_Zhang对验证码bug的利用并不像其在历史书中所说的那样简单。他曾经将这个bug提供给试图破解HC验证码的MelonFish：
+&emsp;战争派的两个代表人物，经过XC的部分用户商讨，被以见一次封一次的方式处理。
+
+&emsp;Mr\_Zhang追求和平，然而他却为一己私利，用脚本攻击了pro和yc。并且，Mr\_Zhang对验证码bug的利用并不像其在历史书中所说的那样简单。他曾经将这个bug提供给试图破解HC验证码的MelonFish：
 
 ```
-Mr_Z_hang 
+Mr_Z_hang
 由于pro的态度不好
-
-Mr_Z_hang 
 我只能把这个BUG送给另一个候选人
-
-Mr_Z_hang 
-不能（注：4n0n4me说“你能不给吗”，当时意思是“你小张具有XC的立场，只要MelonFish需要，你肯定会给的”），因为之前我的这个BUG可能会给两个人，一个是PRO管理员，一个是fish
-
-Mr_Z_hang 
+不能，因为之前我的这个BUG可能会给两个人，一个是PRO管理员，一个是fish
 如此
-
-Mr_Z_hang 
 这个BUG，给pro的人，他们会修复，有价值；给fish，会让他轻松不少。
-
-Mr_Z_hang 
 我和pro的人说过了，结果pro的态度不是很好
 ```
 
@@ -959,14 +1067,8 @@ Mr_Z_hang
 ```
 bw7Gkq Mr_Zhang
 上次我轰炸pro了
-
-bw7Gkq Mr_Zhang
 哈哈哈哈哈
-
-bw7Gkq Mr_Zhang
 那叫一个爽
-
-bw7Gkq Mr_Zhang
 用着验证码的BUG轰炸
 ```
 
@@ -975,8 +1077,6 @@ bw7Gkq Mr_Zhang
 ```
 bw7Gkq Mr_Zhang
 我找到的漏洞确实比较重要
-
-bw7Gkq Mr_Zhang
 因为轰炸机可以通过这个漏洞乘虚而入
 
 a/Jz/a MrZhangYouareframed
@@ -989,40 +1089,28 @@ bw7Gkq Mr_Zhang
 ```
 /9Br2y 4n0n4me_
 你坚持利用武器
-
-/9Br2y 4n0n4me_
 这就是xc和yc无法和平的原因
 
 bw7Gkq Mr_Zhang
 light坚持说我是狗
-
-bw7Gkq Mr_Zhang
 我就轰炸
-```
 
-```
+（中略）
+
 bw7Gkq Mr_Zhang
 你一解锁，轰炸机就来了
-
-bw7Gkq Mr_Zhang
 等候多时的轰炸机
-```
 
-```
+（中略）
+
 bw7Gkq Mr_Zhang
 事实上轰炸机已经在外面等着了
-
-bw7Gkq Mr_Zhang
 不信你就解锁一秒钟
-
-bw7Gkq Mr_Zhang
 晚上也会不间断的轰炸
-
-bw7Gkq Mr_Zhang
 （也能
-```
 
-```
+（中略）
+
 bw7Gkq Mr_Zhang
 你等着吧
 
@@ -1041,14 +1129,10 @@ bw7Gkq Mr_Zhang
 ```
 /9Br2y 4n0n4me_
 小张不太现代啊
-
-/9Br2y 4n0n4me_
 开轰炸机
 
 bw7Gkq Mr_Zhang
 qs
-
-bw7Gkq Mr_Zhang
 为的就是让你们断绝新用户
 
 /9Br2y 4n0n4me_
@@ -1094,37 +1178,10 @@ bw7Gkq Mr_Zhang
 
 &emsp;由于Mr\_Zhang攻击了HC活跃频道中的两个：pro和yc，将这次事件称为Mr\_Zhang对HC大轰炸。
 
-```
-Aice
-啥？！所以刚才的轰炸事件不是机器人搞的吗？
 
-/9Br2y 4n0n4me
-小张做的机器人
+### CrackedX客户端
+&emsp;CrackedX是zzChumo制作的XC客户端，主要功能为在加入聊天室时使用token，从而绕过验证码与ip检测。在大乱动时代初期，MelonFish就封禁了一些反对者的浏览器指纹（并移除了一些反对者的token），后来部分用户才被解封。因此，4n0n4me取CrackedX的名字，制作了NewCrackedX客户端（NCX）。NCX和CrackedX一样几乎没有被公开发布过。在大乱动时代之前，XC遭遇未知来源的轰炸时，轰炸机使用了虚假的浏览器指纹，使4n0n4me获得使用虚假指纹绕过封禁的灵感，篡改浏览器指纹也成为了NCX最主要的功能。由于4n0n4me多次利用虚假指纹前往XC发表不利言论，MelonFish决定封锁虚假指纹功能。他使用AES算法加密浏览器指纹，并对XC客户端的js代码进行了混淆，使第三方客户端无法提供正确加密的浏览器指纹，NCX的开发和利用也停止了。
 
-Aice
-原来如此
-
-Aice
-大概9:30我回到家看见的却是ModBot在轰炸这里呢？
-
-/9Br2y 4n0n4me
-小张的机器人
-
-/9Br2y 4n0n4me
-会说出modbot相应的指令
-
-/9Br2y 4n0n4me
-所以modbot会被迫刷屏
-
-Aice
-呃啊
-
-Aice
-是这样的啊
-
-Aice
-对立关系已经这么深重了啊（叹
-```
 
 ## 附录
 &emsp;有关本书中出现的需要补充的特定用语等。
